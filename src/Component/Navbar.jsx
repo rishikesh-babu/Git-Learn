@@ -3,7 +3,7 @@ import React from 'react'
 function Navbar() {
   return (
     <div>
-      this is nav bar
+      this is nav bar, commit 
     </div>
   )
 }
