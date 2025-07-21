@@ -3,13 +3,13 @@ import Layout from './Component/Layout'
 import Navbar from './Component/Navbar'
 
 function App() {
-  return (
-    <>
-    <Navbar />
-    <Layout />
-    {/* <Footer /> */}
-    </>
-  )
+    return (
+        <>
+            nav
+            layout 
+            footer
+        </>
+    )
 }
 
 export default App
