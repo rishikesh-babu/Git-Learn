@@ -7,7 +7,7 @@ function App() {
         <>
             nav commit 
             layout 
-            footer commit
+            <Footer />
         </>
     )
 }
