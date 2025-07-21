@@ -5,7 +5,7 @@ import Navbar from './Component/Navbar'
 function App() {
     return (
         <>
-            nav
+            nav commit 
             layout 
             footer
         </>
