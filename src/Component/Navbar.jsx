@@ -2,8 +2,10 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <div>
-      this is nav bar, commit, commit, commit, first, second
+    <div className='p-2 border rounded-b shadow '>
+        <div className='text-4xl font-semibold '>
+            Logo 
+        </div>
     </div>
   )
 }
